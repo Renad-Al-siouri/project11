@@ -265,16 +265,16 @@ a:hover {
     margin-right: 200px;
 }
 
-.aa {
+
+.aa img{
+    transition: all 0.3s ease-in-out;
     
-    color: hsl(273, 4%, 51%);
 }
 
-.aa:hover {
+.aa img:hover {
     filter: brightness(0);
-    color: rgb(45, 38, 64);
+   
 }
-
 
 
 
